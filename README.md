@@ -1,5 +1,5 @@
 # MMRCMPSP
-Multi-Mode Resource Constrained Multi Project Scheduling Problem.
+Multi-Mode Resource Constrained Multi-Project Scheduling Problem.
 
 RFOA: Raccoon Family Optimization Algorithm.
 
